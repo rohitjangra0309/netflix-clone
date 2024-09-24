@@ -19,3 +19,32 @@ This project is a Netflix-like web application designed to demonstrate CRUD oper
    ```
    cd client
    ```
+
+2. Install dependencies:
+``` npm install
+```
+
+3. Start the development server:
+``` npm run dev 
+```
+
+### Server
+
+1. Navigate to the server directory:
+``` cd server
+``` 
+
+2. Install the server dependencies:
+``` npm install
+```
+
+3. Start the server:
+``` Start the server:
+```
+
+## Technologies Used
+- **Frontend**: React, TailwindCSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB, Mongoose
+- **Authentication**: JWT (JSON Web Tokens)
+- **API**: RESTful API for managing movie data
