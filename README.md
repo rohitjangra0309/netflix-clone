@@ -1,10 +1,21 @@
-# netflix-clone
-netflix clone to implement CRUD operations and authentication and authorization using Node, React, Express, MongoDB
+# Netflix Clone
 
-Client - 
-cd client
-npm run dev
+This project is a Netflix-like web application designed to demonstrate CRUD operations, along with user authentication and authorization, built using the **MERN stack**: **MongoDB**, **Express**, **React**, and **Node.js**.
 
-Server - 
-cd server
-npm start
+## Features
+- **User Authentication**: Register, Login, Logout
+- **Movie Search**: Search and filter movies
+- **Favorites Management**: Add and remove movies from your personal favorites list
+- **CRUD Operations**: Create, Read, Update, and Delete movie data
+- **Responsive Design**: Sleek UI built with **React** and **TailwindCSS**
+
+---
+
+## Getting Started
+
+### Client
+
+1. Navigate to the `client` directory:
+   ```
+   cd client
+   ```
