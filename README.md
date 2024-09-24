@@ -21,25 +21,30 @@ This project is a Netflix-like web application designed to demonstrate CRUD oper
    ```
 
 2. Install dependencies:
-``` npm install
+``` 
+npm install
 ```
 
 3. Start the development server:
-``` npm run dev 
+```
+ npm run dev 
 ```
 
 ### Server
 
 1. Navigate to the server directory:
-``` cd server
+```
+ cd server
 ``` 
 
 2. Install the server dependencies:
-``` npm install
+```
+ npm install
 ```
 
 3. Start the server:
-``` Start the server:
+```
+ Start the server:
 ```
 
 ## Technologies Used
